@@ -3,7 +3,7 @@
     homepage "https://github.com/aotearoabriantamaki/mac-cleanup"
     url "https://raw.githubusercontent.com/aotearoabriantamaki/mac-cleanup/main/mac-cleanup"
     version "1.0.0"
-    sha256 "89272f02e81f8c28a5d884827e4c4967d04c529e9c54c9d5ab86b1a38b61966e"
+    sha256  "e73ff6675f1a28e1d92e98c7a651f3b6b1807b1c38717be74b8383f295733dd7"
     license "MIT"
 
     def install
